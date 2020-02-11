@@ -24,7 +24,7 @@
         android:layout_alignParentRight="true"
         android:layout_marginTop="50dp"
         android:gravity="center"
-        android:text="Welcome to Test App"
+        android:text="Welcome to Coffee"
         android:textSize="30dp"
         android:textColor="#000000"
         android:fontFamily="sans-serif-light"/>
